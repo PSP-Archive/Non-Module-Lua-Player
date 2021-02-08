@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="356"
+   name=""
+   committed-date="2006-06-03T00:25:42.518893Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/bootstrap"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="350"
+   name="exports.exp"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-04-04T11:00:27.821009Z"
+   checksum="06d78dddd75129f5799661aa00d82611"
+   last-author="Oobles"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+<entry
+   committed-rev="345"
+   name="sio.h"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-03-20T11:45:30.666801Z"
+   checksum="e22e2ba18da0c18be5e0b0053f0b61bb"
+   last-author="Oobles"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+<entry
+   committed-rev="345"
+   name="title-icon.png"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-03-20T11:45:30.666801Z"
+   checksum="85e089b0d96f03238872cf40135f7c45"
+   last-author="Oobles"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+<entry
+   committed-rev="345"
+   name="sio.cpp"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-03-20T11:45:30.666801Z"
+   checksum="4e8a2934bd4fb61b820423ba3a073364"
+   last-author="Oobles"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+<entry
+   committed-rev="356"
+   name="Makefile"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-06-03T00:25:42.518893Z"
+   checksum="9da8fbc2d7373dc3e674d3201d9bec4f"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+<entry
+   committed-rev="350"
+   name="bootstrap.cpp"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-04-04T11:00:27.821009Z"
+   checksum="d525ae25a4593b5f514a1dec5818a0e8"
+   last-author="Oobles"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+</wc-entries>

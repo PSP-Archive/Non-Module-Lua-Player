@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="334"
+   name=""
+   committed-date="2006-01-05T02:15:46.073667Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/src/emulator"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   name="mac"
+   kind="dir"/>
+<entry
+   committed-rev="279"
+   name="framebuffer.cpp"
+   text-time="2006-06-30T16:42:05.000000Z"
+   committed-date="2005-11-20T18:03:07.943658Z"
+   checksum="fb9b17ea96a52a4dfb8e9b0123292217"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:04.000000Z"/>
+<entry
+   committed-rev="334"
+   name="md5.cpp"
+   text-time="2006-06-30T16:42:05.000000Z"
+   committed-date="2006-01-05T02:15:46.073667Z"
+   checksum="80002c299df1c5f71389e23e7ea17571"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:04.000000Z"/>
+<entry
+   committed-rev="284"
+   name="emulator.cpp"
+   text-time="2006-06-30T16:42:05.000000Z"
+   committed-date="2005-11-23T15:44:05.224264Z"
+   checksum="90c479ddb21f73a4fd4ae777a4b3ccb1"
+   last-author="sweetlilmre"
+   kind="file"
+   prop-time="2006-06-30T16:42:04.000000Z"/>
+<entry
+   name="windows"
+   kind="dir"/>
+<entry
+   committed-rev="334"
+   name="md5.h"
+   text-time="2006-06-30T16:42:05.000000Z"
+   committed-date="2006-01-05T02:15:46.073667Z"
+   checksum="70b5bd3dc81c3e7ac5230b4b42c8ac7d"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:05.000000Z"/>
+</wc-entries>

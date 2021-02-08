@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="356"
+   name=""
+   committed-date="2006-06-03T00:25:42.518893Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/src/auxiliary"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="291"
+   name="VeraMono.ttf"
+   text-time="2006-06-30T16:42:05.000000Z"
+   committed-date="2005-12-03T16:28:44.975594Z"
+   checksum="37d8aff129ecd7d3fc495b7239f834db"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:05.000000Z"/>
+<entry
+   committed-rev="356"
+   name="boot.lua"
+   text-time="2006-06-30T16:42:05.000000Z"
+   committed-date="2006-06-03T00:25:42.518893Z"
+   checksum="63c7845c0e5cb408f77fed44c370406d"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:05.000000Z"/>
+<entry
+   committed-rev="356"
+   name="utility.lua"
+   text-time="2006-06-30T16:42:06.000000Z"
+   committed-date="2006-06-03T00:25:42.518893Z"
+   checksum="80529b39d9461676a7b18948ef58a410"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:05.000000Z"/>
+<entry
+   committed-rev="208"
+   name="txt2charp.py"
+   text-time="2006-06-30T16:42:06.000000Z"
+   committed-date="2005-09-09T17:12:57.639168Z"
+   checksum="fb4b2a6182ce81c3f1ba4ff6ad9b1573"
+   last-author="nevyn"
+   kind="file"
+   prop-time="2006-06-30T16:42:05.000000Z"/>
+<entry
+   committed-rev="291"
+   name="Vera.ttf"
+   text-time="2006-06-30T16:42:06.000000Z"
+   committed-date="2005-12-03T16:28:44.975594Z"
+   checksum="785d2fd45984c6548763ae6702d83e20"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:05.000000Z"/>
+<entry
+   committed-rev="356"
+   name="deskboot.lua"
+   text-time="2006-06-30T16:42:06.000000Z"
+   committed-date="2006-06-03T00:25:42.518893Z"
+   checksum="9f39fb22de488926c89efbc6efaf2608"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:05.000000Z"/>
+</wc-entries>

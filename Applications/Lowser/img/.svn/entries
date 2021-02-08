@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="146"
+   name=""
+   committed-date="2005-08-10T12:21:23.007520Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/Applications/Lowser/img"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="146"
+   name="app.png"
+   text-time="2006-06-30T16:42:03.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="dcb732df83f5a25409524a3d3f932778"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:02.000000Z"/>
+<entry
+   committed-rev="146"
+   name="plain.png"
+   text-time="2006-06-30T16:42:03.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="92bc52c58138809b31bbe45a3199f784"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:02.000000Z"/>
+<entry
+   committed-rev="146"
+   name="bg.png"
+   text-time="2006-06-30T16:42:03.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="153c72e7a671a0149917bf7544ac50a9"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:03.000000Z"/>
+<entry
+   committed-rev="146"
+   name="arrow.png"
+   text-time="2006-06-30T16:42:03.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="c2c3dc4e6b76ebd97575435375ccf0b5"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:03.000000Z"/>
+<entry
+   committed-rev="146"
+   name="folder.png"
+   text-time="2006-06-30T16:42:03.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="d074df40d07e0d4700541254c99a4fd6"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:03.000000Z"/>
+</wc-entries>

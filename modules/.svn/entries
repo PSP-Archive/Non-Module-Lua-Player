@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="356"
+   name=""
+   committed-date="2006-06-03T00:25:42.518893Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/modules"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   name="loadlib"
+   kind="dir"/>
+<entry
+   name="sound"
+   kind="dir"/>
+<entry
+   name="simple"
+   kind="dir"/>
+<entry
+   name="effect"
+   kind="dir"/>
+<entry
+   committed-rev="353"
+   name="Makefile"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-04-11T01:51:00.411420Z"
+   checksum="76db401d76bb2ec1755c36b14edd60d8"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+<entry
+   committed-rev="350"
+   name="luamodule.h"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-04-04T11:00:27.821009Z"
+   checksum="285e94820bdeb0c0e95eb0dbf19d9c89"
+   last-author="Oobles"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+</wc-entries>

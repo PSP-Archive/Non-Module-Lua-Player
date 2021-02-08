@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="234"
+   name=""
+   committed-date="2005-10-02T17:20:26.375242Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/samples"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="141"
+   name="helloworld.lua"
+   text-time="2006-06-30T16:42:07.000000Z"
+   committed-date="2005-08-09T03:11:30.479486Z"
+   checksum="4a74ed6b416f77118079be4e14125964"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:07.000000Z"/>
+<entry
+   committed-rev="151"
+   name="fractal.lua"
+   text-time="2006-06-30T16:42:07.000000Z"
+   committed-date="2005-08-11T00:33:40.805871Z"
+   checksum="71756784be7ea3409be102c7697d9acc"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:07.000000Z"/>
+<entry
+   committed-rev="146"
+   name="rotate.lua"
+   text-time="2006-06-30T16:42:07.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="563e766751f8cba90a063bedc3091f64"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:07.000000Z"/>
+</wc-entries>

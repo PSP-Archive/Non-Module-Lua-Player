@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="208"
+   name=""
+   committed-date="2005-09-09T17:12:57.639168Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/standalone/app"
+   last-author="nevyn"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="208"
+   name="script.lua"
+   text-time="2006-06-30T16:42:07.000000Z"
+   committed-date="2005-09-09T17:12:57.639168Z"
+   checksum="f0c2c95e6cf6154632ef8311693a82a7"
+   last-author="nevyn"
+   kind="file"
+   prop-time="2006-06-30T16:42:07.000000Z"/>
+</wc-entries>

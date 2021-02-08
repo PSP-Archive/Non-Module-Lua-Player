@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="208"
+   name=""
+   committed-date="2005-09-09T17:12:57.639168Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/System"
+   last-author="nevyn"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   name="Library"
+   kind="dir"/>
+<entry
+   committed-rev="208"
+   name="system.lua"
+   text-time="2006-06-30T16:41:54.000000Z"
+   committed-date="2005-09-09T17:12:57.639168Z"
+   checksum="941241a7762c1e8430a8efd5e6ab61c3"
+   last-author="nevyn"
+   kind="file"
+   prop-time="2006-06-30T16:41:54.000000Z"/>
+</wc-entries>

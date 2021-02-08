@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="357"
+   name=""
+   committed-date="2006-06-03T17:54:53.983208Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="129"
+   name="LICENSE"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2005-07-30T14:04:52.287344Z"
+   checksum="fc2a595721f7a0ef96877823d9de24c3"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:53.000000Z"/>
+<entry
+   committed-rev="234"
+   name="Readme First.txt"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2005-10-02T17:20:26.375242Z"
+   checksum="14bf6dff46f9630052fb08c29a61f267"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:53.000000Z"/>
+<entry
+   name="System"
+   kind="dir"/>
+<entry
+   name="Applications"
+   kind="dir"/>
+<entry
+   committed-rev="357"
+   name="CHANGELOG"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-06-03T17:54:53.983208Z"
+   checksum="1e7b9c550b3352fb8b8abd2039eee742"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:03.000000Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="standalone"
+   kind="dir"/>
+<entry
+   committed-rev="129"
+   name="title-icon.png"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2005-07-30T14:04:52.287344Z"
+   checksum="85e089b0d96f03238872cf40135f7c45"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:07.000000Z"/>
+<entry
+   committed-rev="129"
+   name="title-icon.psd"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2005-07-30T14:04:52.287344Z"
+   checksum="4f147767c8f53a2ce57d1b05ffcd597d"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:07.000000Z"/>
+<entry
+   committed-rev="335"
+   name="Readme (Lua coders).txt"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-01-07T08:10:59.132626Z"
+   checksum="1f2ecd92d4a5361b13882b6f4fbc9eed"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:07.000000Z"/>
+<entry
+   committed-rev="210"
+   name="Makefile.psp-standalone"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2005-09-09T18:35:45.946096Z"
+   checksum="76e05330c54708529c85d78a9a4a3008"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:07.000000Z"/>
+<entry
+   name="samples"
+   kind="dir"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   committed-rev="357"
+   name="Makefile.psp.common"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-06-03T17:54:53.983208Z"
+   checksum="9968110bb845a079f331a08747a3fa4c"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:08.000000Z"/>
+<entry
+   committed-rev="281"
+   name="Makefile.windows"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2005-11-20T20:00:06.880700Z"
+   checksum="a0499ced5d3ec88449b3858b960601ac"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:08.000000Z"/>
+<entry
+   name="modules"
+   kind="dir"/>
+<entry
+   name="bootstrap"
+   kind="dir"/>
+<entry
+   committed-rev="291"
+   name="Readme (LuaPlayer Core developers).txt"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2005-12-03T16:28:44.975594Z"
+   checksum="c6e55805db15c2477699ed027ccab4f5"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+<entry
+   committed-rev="189"
+   name="Makefile"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2005-08-28T23:23:24.002415Z"
+   checksum="e85127ecad16e40b38d93a852043a1dd"
+   last-author="nevyn"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+<entry
+   committed-rev="356"
+   name="Makefile.psp"
+   text-time="2006-06-30T16:42:10.000000Z"
+   committed-date="2006-06-03T00:25:42.518893Z"
+   checksum="f36b65a3f69fb6e1f264a1f60d676990"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:42:10.000000Z"/>
+</wc-entries>

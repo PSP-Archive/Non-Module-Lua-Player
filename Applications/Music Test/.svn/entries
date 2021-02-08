@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="234"
+   name=""
+   committed-date="2005-10-02T17:20:26.375242Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/Applications/Music%20Test"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="146"
+   name="music.xm"
+   text-time="2006-06-30T16:41:55.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="5235eb9434a35ba7230e6cc0f0f70511"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:54.000000Z"/>
+<entry
+   committed-rev="146"
+   name="sound.wav"
+   text-time="2006-06-30T16:41:55.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="8f69fbf92f8afd4801c6fdf4b6968f98"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:55.000000Z"/>
+<entry
+   committed-rev="234"
+   name="index.lua"
+   text-time="2006-06-30T16:41:55.000000Z"
+   committed-date="2005-10-02T17:20:26.375242Z"
+   checksum="3490f4614910e3ae13ba9af1fbc52dcf"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:55.000000Z"/>
+<entry
+   committed-rev="147"
+   name="bg.png"
+   text-time="2006-06-30T16:41:55.000000Z"
+   committed-date="2005-08-10T21:19:27.104483Z"
+   checksum="2441155b43208454d4596137f28954db"
+   last-author="nevyn"
+   kind="file"
+   prop-time="2006-06-30T16:41:55.000000Z"/>
+</wc-entries>

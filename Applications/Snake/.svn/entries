@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="357"
+   name=""
+   committed-date="2006-06-03T17:54:53.983208Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/Applications/Snake"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="202"
+   name="grass.png"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-09-03T17:39:34.245458Z"
+   checksum="c2ba64168b855da6daeb0b767bba2c42"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:57.000000Z"/>
+<entry
+   committed-rev="202"
+   name="tiles.png"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-09-03T17:39:34.245458Z"
+   checksum="ca7b79d3181162ef0d6c49f68453dbab"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:57.000000Z"/>
+<entry
+   committed-rev="357"
+   name="index.lua"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2006-06-03T17:54:53.983208Z"
+   checksum="0b29b26ce4e118a2a96292f7b4da8879"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:57.000000Z"/>
+<entry
+   committed-rev="172"
+   name="clack.wav"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-08-18T16:33:13.992374Z"
+   checksum="68f048b4ff8b93f625c2e82d73948ca6"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:57.000000Z"/>
+<entry
+   committed-rev="202"
+   name="desert.png"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-09-03T17:39:34.245458Z"
+   checksum="8d606869122f3fdad2726fb4e0e5d2fc"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:58.000000Z"/>
+<entry
+   committed-rev="146"
+   name="snake-title-icon.png"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-08-10T12:21:23.007520Z"
+   checksum="99efb78d85c3ae545ff9b0bc19e3eba5"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:59.000000Z"/>
+<entry
+   committed-rev="150"
+   name="stranglehold.xm"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-08-11T00:13:38.109140Z"
+   checksum="1f75eaf1dc16eb9e9f55ffaee8d60cd5"
+   last-author="nevyn"
+   kind="file"
+   prop-time="2006-06-30T16:41:59.000000Z"/>
+<entry
+   committed-rev="137"
+   name="icon.png"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-08-05T14:24:27.369017Z"
+   checksum="c482f97a18b5f1dcc06fa97dba6b5a6c"
+   last-author="nevyn"
+   kind="file"
+   prop-time="2006-06-30T16:41:59.000000Z"/>
+<entry
+   committed-rev="172"
+   name="explode.wav"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-08-18T16:33:13.992374Z"
+   checksum="35e46253bdedd03fd547ac989d240832"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:59.000000Z"/>
+<entry
+   committed-rev="203"
+   name="options.png"
+   text-time="2006-06-30T16:41:59.000000Z"
+   committed-date="2005-09-03T18:47:21.226691Z"
+   checksum="c79eeb59b49889fc8ef85fb310751c7a"
+   last-author="shine"
+   kind="file"
+   prop-time="2006-06-30T16:41:59.000000Z"/>
+</wc-entries>

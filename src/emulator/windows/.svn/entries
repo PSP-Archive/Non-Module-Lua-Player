@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="284"
+   name=""
+   committed-date="2005-11-23T15:44:05.224264Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/src/emulator/windows"
+   last-author="sweetlilmre"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   committed-rev="284"
+   name="windows.cpp"
+   text-time="2006-06-30T16:42:05.000000Z"
+   committed-date="2005-11-23T15:44:05.224264Z"
+   checksum="6c5aa2aa18fda4dd4c5319c90ae6aecd"
+   last-author="sweetlilmre"
+   kind="file"
+   prop-time="2006-06-30T16:42:05.000000Z"/>
+</wc-entries>

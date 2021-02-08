@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="357"
+   name=""
+   committed-date="2006-06-03T17:54:53.983208Z"
+   url="svn://svn.ps2dev.org/pspware/trunk/LuaPlayer/Applications"
+   last-author="shine"
+   kind="dir"
+   uuid="ff2c0c17-07fa-0310-a4bd-d48831021cb5"
+   repos="svn://svn.ps2dev.org/pspware"
+   revision="357"/>
+<entry
+   name="IrDA"
+   kind="dir"/>
+<entry
+   name="Music Test"
+   kind="dir"/>
+<entry
+   name="Snake"
+   kind="dir"/>
+<entry
+   name="WLAN"
+   kind="dir"/>
+<entry
+   name="Minesweeper"
+   kind="dir"/>
+<entry
+   name="Serial Port Echo"
+   kind="dir"/>
+<entry
+   name="3D Cube"
+   kind="dir"/>
+<entry
+   name="LED Timer"
+   kind="dir"/>
+<entry
+   name="True Type Font"
+   kind="dir"/>
+<entry
+   name="Calculator"
+   kind="dir"/>
+<entry
+   name="Clock"
+   kind="dir"/>
+<entry
+   name="Lowser"
+   kind="dir"/>
+<entry
+   name="Starfield"
+   kind="dir"/>
+<entry
+   name="Game Of Life"
+   kind="dir"/>
+</wc-entries>
